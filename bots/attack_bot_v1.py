@@ -62,3 +62,4 @@ class BotPlayer(Player):
                 rc.move_unit_in_direction(unit_id, best_dir)
             
         
+# test
